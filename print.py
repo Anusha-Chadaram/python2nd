@@ -1,0 +1,7 @@
+print("I am anusha")
+print("my father's name is srinu")
+print("my mother's name is sri laxmi")
+print("parsuing degree BCA 2nd year")
+print("habbits are watching tv or mobile and spending time with parents")
+print("my interests are travelling outside and doing crafts")
+print("favorite color is WHITE")
