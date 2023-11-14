@@ -1,0 +1,10 @@
+#max-min
+l=[1,2,3,4,5]
+#print(max(l))
+#print(max(l))
+#val=(max(l))-(min(1))
+#print(val)
+print(max(l))
+print(min(l))
+k=max(l)-min(l)
+print(k)
